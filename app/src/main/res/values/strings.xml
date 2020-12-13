@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">firebase</string>
+    <string name="app_seccion">Tipo:</string>
+    <string name="app_asignatura">Categoria</string>
+    <string name="app_tema">Escribe una breve descrpiion</string>
+    <string name="registrar_tema">Registrar</string>
+
+    <string-array name="seccion_array">
+        <item>Peliculas</item>
+        <item>Series</item>
+        <item>Animes</item>
+        <item>Caricaturas</item>
+    </string-array>
+
+    <string-array name="area_array">
+        <item>Romance</item>
+        <item>Accion</item>
+        <item>Horror</item>
+        <item>Misterio</item>
+        <item>Ciencia ficcion</item>
+    </string-array>
+</resources>
